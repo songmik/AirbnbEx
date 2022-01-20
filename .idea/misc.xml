@@ -5,7 +5,9 @@
       <map>
         <entry key="..\:/Users/ksong/AndroidStudioProjects/15_airbnb/app/src/main/res/drawable/top_redius_white_background.xml" value="0.25333333333333335" />
         <entry key="..\:/Users/ksong/AndroidStudioProjects/15_airbnb/app/src/main/res/layout/activity_main.xml" value="0.2265625" />
-        <entry key="..\:/Users/ksong/AndroidStudioProjects/15_airbnb/app/src/main/res/layout/bottom_sheet.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/15_airbnb/app/src/main/res/layout/bottom_sheet.xml" value="0.1" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/15_airbnb/app/src/main/res/layout/item_house.xml" value="0.24114583333333334" />
+        <entry key="..\:/Users/ksong/AndroidStudioProjects/15_airbnb/app/src/main/res/layout/item_house_detail_for_viewpager.xml" value="0.24114583333333334" />
       </map>
     </option>
   </component>
